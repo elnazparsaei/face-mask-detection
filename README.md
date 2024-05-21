@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Face Mask Detection</h1>
+<h1 style="text-align: Center;">Face Mask Detection</h1>
 
 <p align="center">
 <img src="logo/icon2.jpg" alt="face mask detector" width="400" style="border-radius: 10px"/>
