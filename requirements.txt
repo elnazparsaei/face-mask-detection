@@ -1,0 +1,10 @@
+1. tensorflow>=2.5.0
+2. keras==2.4.3
+3. imutils==0.5.4
+4. numpy==1.19.5
+5. opencv-python>=4.2.0.32
+6. matplotlib==3.4.1
+7. argparse==1.4.0
+8. scikit-learn==0.24.1
+9. pillow>=8.3.2
+10. streamlit==0.79.0

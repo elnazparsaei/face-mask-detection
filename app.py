@@ -6,7 +6,6 @@ import os
 from tensorflow.keras.applications.mobilenet_v2 import preprocess_input
 from tensorflow.keras.preprocessing.image import img_to_array
 from tensorflow.keras.models import load_model
-#import detect_mask_image
 
 # Setting custom Page Title and Icon with changed layout and sidebar state
 st.set_page_config(page_title='Face Mask Detector', page_icon='😷', layout='centered', initial_sidebar_state='expanded')
@@ -33,7 +32,7 @@ def mask_image():
 
     # load the input image from disk and grab the image spatial
     # dimensions
-    image = cv2.imread("./images/out.jpg")
+    image = cv2.imread("./images/pic1.jpg")
     (h, w) = image.shape[:2]
 
     # construct a blob from the image
@@ -107,7 +106,7 @@ def mask_detection():
         image_file = st.file_uploader("", type=['jpg'])  # upload image
         if image_file is not None:
             our_image = Image.open(image_file)  # making compatible to PIL
-            im = our_image.save('./images/out.jpg')
+            im = our_image.save('./images/pic1.jpg')
             saved_image = st.image(image_file, caption='', use_column_width=True)
             st.markdown('<h3 align="center">Image uploaded successfully!</h3>', unsafe_allow_html=True)
             if st.button('Process'):
