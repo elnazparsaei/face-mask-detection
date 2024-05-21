@@ -1,8 +1,9 @@
 <h1 style="text-align: center;">Face Mask Detection</h1>
 
 <p align="center">
-<img src="icon2.jpg" alt="face mask detector" width="400" style="border-radius: 10px;"/>
+<img src="images/icon2.jpg" alt="face mask detector" width="400" style="border-radius: 10px"/>
 </p>
+
 
 > Face Mask Detection web application built with opencv and tensorflow/     keras using Deeplearning model in order to detect mask over faces.
 > It can be used in public places, airports, railway stations, offices, schools to curtail community spread of Corona virus.
