@@ -1,10 +1,5 @@
-<style>
-.center {
- text-align: center
-}
-</style>
+<h3 style="text-align:center">Example of centered text in a header tag</h3>
 
-<p class="center">Center this text!</p>
 
 <p style="text-align:center">
 <h1 style="text-align: center;">Face Mask Detection</h1>
