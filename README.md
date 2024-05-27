@@ -4,6 +4,8 @@
 }
 </style>
 
+<p class="center">Center this text!</p>
+
 <p style="text-align:center">
 <h1 style="text-align: center;">Face Mask Detection</h1>
 </p>
