@@ -1,16 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<h1 style="text-align: right;">Face Mask Detection</h1>
-=======
 <p style="text-align:center">
-=======
-<p style="text-align:right">
->>>>>>> 94ce595401f3ea50dbb9679ea62e05afa7c4512f
 <h1 style="text-align: center;">Face Mask Detection</h1>
 </p>
-
->>>>>>> 5c6de129f74a2e6860c86ba948888828175b751a
-
 <p align="center">
 <img src="logo/icon2.jpg" alt="face mask detector" width="400" style="border-radius: 10px"/>
 </p>
