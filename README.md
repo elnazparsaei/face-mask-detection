@@ -1,7 +1,11 @@
-
+<style>
+.center {
+ text-align: center
+}
+</style>
 
 <p style="text-align:center">
-<h1>Face Mask Detection</h1>
+<h1 style="text-align: center;">Face Mask Detection</h1>
 </p>
 
 
