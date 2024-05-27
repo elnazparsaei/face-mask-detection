@@ -1,9 +1,3 @@
-<div style="text-align:center">
- <p>Example of a centered sentence in a div tag.</p>
- <p>Example of a second centered sentence in a div tag.</p>
-</div>
-
-
 <p style="text-align:center">
 <h1 style="text-align: center;">Face Mask Detection</h1>
 </p>
