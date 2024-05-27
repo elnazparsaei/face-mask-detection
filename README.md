@@ -1,6 +1,4 @@
-<style type="text/css">
-.center { text-align: center; }
-</style>
+<style type="text/css">.center{ text-align: center; }</style>
 
 <p class="center">Text</p>
 
