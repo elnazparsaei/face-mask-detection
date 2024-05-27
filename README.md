@@ -1,5 +1,5 @@
 <p style="text-align:center;">
-   <h1>Some Text Here</h1>
+   <h1 style="text-align: center;">Some Text Here</h1>
 </p>
 <p align: center">
 <h1 style="text-align: center;">Face Mask Detection</h1>
