@@ -1,12 +1,8 @@
-<style>
-.paragraph p{
-    text-align: center;
-}
-</style>
 
-<div class="paragraph">
-   <p>Text</p>
-</div>
+<p align: center">
+<h1 style="margin-left:auto;margin-right:auto;">Face Mask Detection</h1>
+</p>
+
 
 <p align: center">
 <h1 style="text-align: center;">Face Mask Detection</h1>
