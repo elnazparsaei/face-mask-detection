@@ -1,6 +1,4 @@
-<style type="text/css">.center{ text-align: center; }</style>
-
-<p class="center">Text</p>
+<div style="text-align:center;">Centered Text</div>
 
 <p align: center">
 <h1 style="text-align: center;">Face Mask Detection</h1>
