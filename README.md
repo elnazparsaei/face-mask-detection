@@ -1,8 +1,4 @@
-
-<p align: center">
-<h1 style="margin-left:auto;margin-right:auto;">Face Mask Detection</h1>
-</p>
-
+<center>Center this text!</center>
 
 <p align: center">
 <h1 style="text-align: center;">Face Mask Detection</h1>
