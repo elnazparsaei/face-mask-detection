@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <h1 style="text-align: right;">Face Mask Detection</h1>
 =======
 <p style="text-align:center">
+=======
+<p style="text-align:right">
+>>>>>>> 94ce595401f3ea50dbb9679ea62e05afa7c4512f
 <h1 style="text-align: center;">Face Mask Detection</h1>
 </p>
 
